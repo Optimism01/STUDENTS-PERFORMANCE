@@ -36,6 +36,8 @@ My analysis results shows that :
 
 •	The average sleeping hour of the student is 6 hours 54minutes everyday while the average studying hours is 17 hours 7 minutes after rounding up the milliseconds of each time.
 
+•	Most students come from middle class family or low family.
+
 •	Most students rated their level of stress as 4 in a scale of 10 followed by those that rated it as 8 in a scale of 10.
 
 •	The department with the highest A is CS department while it is also the department with highest level of failure. Also it is the most populated department.
