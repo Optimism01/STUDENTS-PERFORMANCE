@@ -12,14 +12,23 @@ PowerBi: Visualization.
 
 ## Questions
 •	How many students is in the institution?
+
 •	Number of students in each department?
+
 •	What is the average score of the students?
+
 •	What is the average sleeping time of the students?
+
 •	What is the average reading hours of the students?
+
 •	How stressed are the students?
+
 •	What is the most common grade the students are having?
+
 •	List of the top 5 students.
+
 •	Performance of each department.
+
 •	Which level of income of parents has students most in the school?
 
 ## Data Visualization
