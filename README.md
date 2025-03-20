@@ -10,6 +10,17 @@ The data used for this analysis was gotten from Kaggle.com. It contains a well d
 PowerBi: Data cleaning and processing.
 PowerBi: Visualization.
 
+## Data cleaning
+During the initial data preparation stage, the following tasks were carried out:
+•	Data loading and inspection.
+
+•	Removal of duplicate values of studentID .
+
+•	Data formatting.
+
+•	Handle missing values. 
+
+
 ## Questions
 •	How many students is in the institution?
 
