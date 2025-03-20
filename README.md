@@ -29,14 +29,21 @@ Data Visualization plays a crucial help in transforming the well cleaned raw dat
 
 ## Results
 My analysis results shows that :
-The total number of students in the school is 5000.
+
 •	The total number of students in the school is 5000.
+
 •	Grade A is the students most have grade with an average score of 75.12.
+
 •	The average sleeping hour of the student is 6 hours 54minutes everyday while the average studying hours is 17 hours 7 minutes after rounding up the milliseconds of each time.
+
 •	Most students rated their level of stress as 4 in a scale of 10 followed by those that rated it as 8 in a scale of 10.
+
 •	The department with the highest A is CS department while it is also the department with highest level of failure. Also it is the most populated department.
+
 •	The number of students in each department contribute to the number of students having each grade. This shows that all department performance are almost the same.
+
 •	The top 5 students of the institution are :
+1.	Omar Jones (S1188) 1st 
 2.	Sara Davis (S2652) 1st 
 3.	Maria Brown (S4657) 1st 
 4.	Emma Johnson (S1804) 2nd 
