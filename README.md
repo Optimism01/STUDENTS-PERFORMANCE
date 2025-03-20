@@ -10,3 +10,20 @@ The data used for this analysis was gotten from Kaggle.com. It contains a well d
 PowerBi: Data cleaning and processing.
 PowerBi: Visualization.
 
+## Questions
+•	How many students is in the institution?
+•	Number of students in each department?
+•	What is the average score of the students?
+•	 What is the average sleeping time of the students?
+•	What is the average reading hours of the students?
+•	How stressed are the students?
+•	What is the most common grade the students are having?
+•	List of the top 5 students.
+•	Performance of each department.
+•	Which level of income of parents has students most in the school?
+
+## Data Visualization
+Data Visualization plays a crucial help in transforming the well cleaned raw data into an easily understandable visual representation.
+<img width="464" alt="Screenshot 2025-03-18 144327" src="https://github.com/user-attachments/assets/5c5692ba-fd29-44a6-a56e-c1b29434904e" />
+<img width="453" alt="Screenshot 2025-03-18 144306" src="https://github.com/user-attachments/assets/2f8b3293-a0ea-4e82-b84d-065c00a8fcfd" />
+
