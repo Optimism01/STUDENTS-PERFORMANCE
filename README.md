@@ -20,7 +20,7 @@ During the initial data preparation stage, the following tasks were carried out:
 
 •	Data formatting.
 
-•	Handle missing values. 
+•	Handled missing values. 
 
 
 ## Questions
